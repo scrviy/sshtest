@@ -1,0 +1,15 @@
+/home/scurvyy/dev/dotnet/sshtest/bin/Debug/net7.0/sshtest
+/home/scurvyy/dev/dotnet/sshtest/bin/Debug/net7.0/sshtest.deps.json
+/home/scurvyy/dev/dotnet/sshtest/bin/Debug/net7.0/sshtest.runtimeconfig.json
+/home/scurvyy/dev/dotnet/sshtest/bin/Debug/net7.0/sshtest.dll
+/home/scurvyy/dev/dotnet/sshtest/bin/Debug/net7.0/sshtest.pdb
+/home/scurvyy/dev/dotnet/sshtest/obj/Debug/net7.0/sshtest.csproj.AssemblyReference.cache
+/home/scurvyy/dev/dotnet/sshtest/obj/Debug/net7.0/sshtest.GeneratedMSBuildEditorConfig.editorconfig
+/home/scurvyy/dev/dotnet/sshtest/obj/Debug/net7.0/sshtest.AssemblyInfoInputs.cache
+/home/scurvyy/dev/dotnet/sshtest/obj/Debug/net7.0/sshtest.AssemblyInfo.cs
+/home/scurvyy/dev/dotnet/sshtest/obj/Debug/net7.0/sshtest.csproj.CoreCompileInputs.cache
+/home/scurvyy/dev/dotnet/sshtest/obj/Debug/net7.0/sshtest.dll
+/home/scurvyy/dev/dotnet/sshtest/obj/Debug/net7.0/refint/sshtest.dll
+/home/scurvyy/dev/dotnet/sshtest/obj/Debug/net7.0/sshtest.pdb
+/home/scurvyy/dev/dotnet/sshtest/obj/Debug/net7.0/sshtest.genruntimeconfig.cache
+/home/scurvyy/dev/dotnet/sshtest/obj/Debug/net7.0/ref/sshtest.dll
